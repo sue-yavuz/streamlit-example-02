@@ -19,8 +19,7 @@ def set_bg_hack_url():
          f"""
          <style>
          .stApp {{
-             background: url(
-                 "https://static1.bigstockphoto.com/7/5/2/large1500/257924590.jpg");
+             background: img = Image.open("topsecret.jpeg");
              background-size: auto,
              background-size: 150px
          }}
