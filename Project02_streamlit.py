@@ -32,16 +32,16 @@ def set_bg_hack_url():
 
 set_bg_hack_url()
 
-img = Image.open("file2.jpeg")
-new_img = img.resize((700, 225))
-col1, col2, col3 = st.columns([1, 6, 1])
+#img = Image.open("file2.jpeg")
+#new_img = img.resize((700, 225))
+#col1, col2, col3 = st.columns([1, 6, 1])
 
-with col1:
-    st.write(' ')
-with col2:
-    st.image(new_img)
-with col3:
-    st.write(' ')
+# with col1:
+#     st.write(' ')
+# with col2:
+#     st.image(new_img)
+# with col3:
+#     st.write(' ')
 
 st.title("💰**Credit Card Fraud Detection App**💰")
 # sidebar
