@@ -10,9 +10,9 @@ st.set_page_config(page_title="Credit Card Fraud Detection App", page_icon="💰
                    layout='centered', initial_sidebar_state='expanded')
 
 filename = "Fraud_Detection_Model.pkl"
-model = pickle.load(open('Fraud_Detection_Model.pkl', 'rb'))
+model = pickle.load(open('HR_Dataset_model_rfc.pkl', 'rb'))
 # df
-df = pd.read_csv("creditcard.csv")
+df = pd.read_csv("HR_Dataset.csv")
 
 def set_bg_hack_url():
     st.markdown(
@@ -61,7 +61,7 @@ st.sidebar.header("A credit card account that doesn't require possession of a ph
 st.sidebar.subheader("Predict the fraud according features.")
 
 # df
-df = pd.read_csv("creditcard.csv")
+df = pd.read_csv("HR_Dataset.csv")
 # Departments"
 dept_list = df["Departments "].unique().tolist()
 #Departments = st.selectbox("YOUR DEPARTMENTS", dept_list)
