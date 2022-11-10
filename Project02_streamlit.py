@@ -50,8 +50,8 @@ img = img.resize((250, 200))
 st.sidebar.image(img)
 
 html_temp2 = """
-<div style="background-color:rgba(100, 200, 0, 0.3)">
-<h1 style="color:white;text-align:center;"> Credit Card Fraud Detection</h1>
+<div style="background-color:transparent">
+<h1 style="color:#d60000;text-align:center;"> Credit Card Fraud Detection</h1>
 </div><br>"""
 st.sidebar.markdown(html_temp2, unsafe_allow_html=True)
 
@@ -102,8 +102,8 @@ myButton1 = st.button("Predict the Fraud")
 button_style = """
                     <style>
                     .stButton > button {
-                        color: lawngreen;
-                        background: black;
+                        color: #d60000;
+                        background: transparent;
                         width: 700px;
                         height: 50px;
                         font-size: 25px;
