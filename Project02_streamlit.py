@@ -20,7 +20,7 @@ def set_bg_hack_url():
          <style>
          .stApp {{
              background: url(
-                 "https://static1.bigstockphoto.com/7/5/2/large1500/257924590.jpg");
+                 "https://thumbs.dreamstime.com/z/double-exposure-row-coins-credit-card-graph-business-finance-background-140092290.jpg");
              background-size: contain;
              background-repeat: no-repeat;
              width: 100%;
