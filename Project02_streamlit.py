@@ -46,7 +46,7 @@ set_bg_hack_url()
 vtxt= "💰Credit Card Fraud Detection App💰"
 htmlstr1 = f"""<p style="background-color: transparent;
     color: '#d60000';
-    font-size: 100px;
+    font-size: 45px;
     border-radius: 7px;
     padding-left: 12px;
     padding-top: 13px;
