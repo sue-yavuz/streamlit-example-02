@@ -20,7 +20,7 @@ def set_bg_hack_url():
          <style>
          .stApp {{
              background: url(
-                 "https://thumbs.dreamstime.com/b/double-exposure-coins-clock-graph-business-finance-background-161331178.jpg");
+                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzyvZdKmCiVXM2T-73zs3F6fJK29gFdeL75Yt7dilsTN5-qZbNKDXsv0L_WGmaukHNWA&usqp=CAU ");
              background-size: contain;
              background-repeat: no-repeat;
              width: 100%;
