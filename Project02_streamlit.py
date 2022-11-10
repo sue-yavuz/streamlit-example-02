@@ -20,7 +20,7 @@ def set_bg_hack_url():
          <style>
          .stApp {{
              background: url(
-                 "https://www.psdgraphics.com/wp-content/uploads/2009/08/top-secret-envelope.jpg");
+                 "https://t4.ftcdn.net/jpg/05/34/58/69/360_F_534586990_EcmN18EpT30B9Elzz94g9pLWJ3wkDKlJ.jpg");
              background-size: auto,
              background-size: 1500px
          }}
@@ -32,9 +32,9 @@ def set_bg_hack_url():
 
 set_bg_hack_url()
 
-#img = Image.open("file2.jpeg")
-#new_img = img.resize((700, 225))
-#col1, col2, col3 = st.columns([1, 6, 1])
+# img = Image.open("file2.jpeg")
+# new_img = img.resize((700, 225))
+# col1, col2, col3 = st.columns([1, 6, 1])
 
 # with col1:
 #     st.write(' ')
