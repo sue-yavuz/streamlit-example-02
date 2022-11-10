@@ -22,7 +22,7 @@ def set_bg_hack_url():
              background: url(
                  "https://www.psdgraphics.com/wp-content/uploads/2009/08/top-secret-envelope.jpg");
              background-size: auto,
-             background-size: 150px
+             background-size: 1500px
          }}
          </style>
          """,
