@@ -20,7 +20,7 @@ def set_bg_hack_url():
          <style>
          .stApp {{
              background: url(
-                 "https://cdn.wallpapersafari.com/64/31/aLP64s.jpg");
+                 "https://static1.bigstockphoto.com/7/5/2/large1500/257924590.jpg");
              background-size: auto,
              background-size: 150px
          }}
