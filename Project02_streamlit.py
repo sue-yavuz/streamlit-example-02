@@ -20,7 +20,7 @@ def set_bg_hack_url():
          <style>
          .stApp {{
              background: url(
-                 "https://www.psdgraphics.com/wp-content/uploads/2009/08/top-secret-envelope.jpg");
+                 "https://thumbs.dreamstime.com/b/top-secret-top-secret-document-paper-page-template-wooden-table-secret-service-agent-flat-lay-background-188154134.jpg");
              background-size: contain;
              background-repeat: no-repeat;
              width: 100%;
