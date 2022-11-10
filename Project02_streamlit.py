@@ -22,7 +22,7 @@ def set_bg_hack_url():
              background: url(
                  "https://t4.ftcdn.net/jpg/05/34/58/69/360_F_534586990_EcmN18EpT30B9Elzz94g9pLWJ3wkDKlJ.jpg");
              background-size: auto,
-             background-size: 1500px
+             background-size: 150px
          }}
          </style>
          """,
