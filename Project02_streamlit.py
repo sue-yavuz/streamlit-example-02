@@ -43,7 +43,19 @@ set_bg_hack_url()
 # with col3:
 #     st.write(' ')
 
-st.title("💰**Credit Card Fraud Detection App**💰")
+vtxt= "💰Credit Card Fraud Detection App💰"
+htmlstr1 = f"""<p style="background-color: transparent;
+    color: '#d60000';
+    font-size: 14px;
+    border-radius: 7px;
+    padding-left: 12px;
+    padding-top: 13px;
+    padding-bottom:13px;
+    line-height:25px;">
+    {vtxt}</style>
+    <BR></p>"""
+st.markdown(htmlstr1,unsafe_allow_html=True)
+
 # sidebar
 img = Image.open("Front+cover.jpeg")
 img = img.resize((250, 200))
