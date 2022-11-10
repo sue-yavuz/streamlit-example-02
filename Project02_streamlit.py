@@ -47,6 +47,7 @@ st.title("💰**Credit Card Fraud Detection App**💰")
 # sidebar
 img = Image.open("Front+cover.jpeg")
 img = img.resize((250, 200))
+color = #d60000
 st.sidebar.image(img)
 
 st.markdown(
