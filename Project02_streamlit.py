@@ -7,7 +7,7 @@ import xgboost as xgb
 import pickle
 
 st.set_page_config(page_title="Credit Card Fraud Detection App", page_icon="💰",
-                   layout='centered', initial_sidebar_state='expanded')
+                   layout='lefted', initial_sidebar_state='expanded')
 
 filename = "Fraud_Detection_Model.pkl"
 model = pickle.load(open('HR_Dataset_model_rfc.pkl', 'rb'))
