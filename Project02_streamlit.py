@@ -22,7 +22,7 @@ def set_bg_hack_url():
              background: url(
                  "https://thumbs.dreamstime.com/z/double-exposure-row-coins-credit-card-graph-business-finance-background-140092290.jpg");
              background-size: contain;
-             background-repeat: no-repeat;
+             background-repeat: repeat;
              width: 100%;
              height: 0;
              padding-top: 66.64%; /* (img-height / img-width * container-width) *//* (853 / 1280 * 100) */
