@@ -20,7 +20,7 @@ def set_bg_hack_url():
          <style>
          .stApp {{
              background: url(
-                 "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/LockBlueRedSmall.jpg");
+                 "https://www.dockmaster.com/wp-content/uploads/2019/09/security-concept.jpg ");
              background-size: contain;
              background-repeat: no-repeat;
              width: 100%;
