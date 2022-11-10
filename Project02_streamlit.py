@@ -20,7 +20,7 @@ def set_bg_hack_url():
          <style>
          .stApp {{
              background: url(
-                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzyvZdKmCiVXM2T-73zs3F6fJK29gFdeL75Yt7dilsTN5-qZbNKDXsv0L_WGmaukHNWA&usqp=CAU ");
+                 "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/LockBlueRedSmall.jpg");
              background-size: contain;
              background-repeat: no-repeat;
              width: 100%;
