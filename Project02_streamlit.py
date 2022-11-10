@@ -44,8 +44,8 @@ set_bg_hack_url()
 #     st.write(' ')
 
 vtxt= "💰Credit Card Fraud Detection App💰"
-htmlstr1 = f"""<p style="background-color: red;
-    color: '#d60000';
+htmlstr1 = f"""<p style="background-color: transparent;
+    font-color: '#d60000';
     font-size: 45px;
     border-radius: 7px;
     padding-left: 12px;
