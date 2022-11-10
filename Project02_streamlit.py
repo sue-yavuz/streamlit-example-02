@@ -20,7 +20,7 @@ def set_bg_hack_url():
          <style>
          .stApp {{
              background: url(
-                 "https://static1.bigstockphoto.com/7/5/2/large1500/257924590.jpg");
+                 "https://www.psdgraphics.com/wp-content/uploads/2009/08/top-secret-envelope.jpg");
              background-size: auto,
              background-size: 150px
          }}
