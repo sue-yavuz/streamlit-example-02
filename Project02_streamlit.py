@@ -20,7 +20,7 @@ def set_bg_hack_url():
          <style>
          .stApp {{
              background: url(
-                 "https://www.dockmaster.com/wp-content/uploads/2019/09/security-concept.jpg ");
+                 "https://thumbs.dreamstime.com/z/double-exposure-row-coins-credit-card-graph-business-finance-background-140092290.jpg");
              background-size: contain;
              background-repeat: no-repeat;
              width: 100%;
