@@ -33,7 +33,7 @@ def set_bg_hack_url():
 set_bg_hack_url()
 
 img = Image.open("file2.jpeg")
-new_img = img.resize((600, 180))
+new_img = img.resize((700, 225))
 col1, col2, col3 = st.columns([1, 6, 1])
 
 with col1:
