@@ -19,7 +19,8 @@ def set_bg_hack_url():
          f"""
          <style>
          .stApp {{
-             background: img = Image.open("topsecret.jpeg");
+             background: url(
+                 "https://cdn.wallpapersafari.com/64/31/aLP64s.jpg");
              background-size: auto,
              background-size: 150px
          }}
