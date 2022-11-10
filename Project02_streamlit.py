@@ -21,6 +21,11 @@ def set_bg_hack_url():
          .stApp {{
              background: url(
                  "https://t4.ftcdn.net/jpg/05/34/58/69/360_F_534586990_EcmN18EpT30B9Elzz94g9pLWJ3wkDKlJ.jpg");
+             background-size: contain;
+             background-repeat: no-repeat;
+             width: 100%;
+             height: 0;
+             padding-top: 66.64%; /* (img-height / img-width * container-width) *//* (853 / 1280 * 100) */
              background-size: auto,
              background-size: 150px
          }}
