@@ -49,6 +49,19 @@ img = Image.open("Front+cover.jpeg")
 img = img.resize((250, 200))
 st.sidebar.image(img)
 
+st.markdown(
+    """
+<style>
+.sidebar .sidebar-content {
+    background-image: url(
+                 "https://i.pinimg.com/originals/29/f8/51/29f851ee50c52b29f0c2f16ffdae25f9.jpg");
+             background-size: auto
+}
+</style>
+""",
+    unsafe_allow_html=True,
+)
+
 html_temp2 = """
 <div style="background-color:transparent">
 <h1 style="color:#d60000;text-align:center;"> Credit Card Fraud Detection</h1>
